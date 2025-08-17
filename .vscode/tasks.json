@@ -5,8 +5,7 @@
             "label": "C/C++: gcc.exe build active file",
             "command": "C:/MinGW/bin/gcc.exe",
             "args": [
-                "-fdiagnostics-color=always",
-                "-g",
+                "-std=c17",
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
