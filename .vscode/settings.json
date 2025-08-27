@@ -60,6 +60,7 @@
     "plen",
     "resb",
     "rodata",
+    "ssort",
     "syscall"
   ]
 }
