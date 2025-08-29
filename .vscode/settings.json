@@ -60,17 +60,22 @@
     "endmacro",
     "hexchars",
     "Lnot",
+    "movsb",
     "nequal",
+    "noteq",
     "plen",
     "PREAD",
     "println",
     "puthex",
     "putnl",
     "randbuff",
+    "randval",
     "RDONLY",
     "resb",
+    "resq",
     "rodata",
     "ssort",
+    "strcmp",
     "syscall"
   ]
 }
